@@ -1,0 +1,112 @@
+{
+  "_allData": [
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Initial",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 1,
+      "_isInitialOwnership": true,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_1",
+      "_skinNameTextId": "ChatBubbleName_1",
+      "_startAt": "2026/06/01 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Initial"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Pink",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 2,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_2",
+      "_skinNameTextId": "ChatBubbleName_2",
+      "_startAt": "2026/06/01 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Pink"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_RedGaga",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 3,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_startAt": "2026/06/01 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_RedGaga"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_WhiteGaga",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 4,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_4",
+      "_skinNameTextId": "ChatBubbleName_4",
+      "_startAt": "2026/06/01 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_WhiteGaga"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Millsage",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 5,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_5",
+      "_skinNameTextId": "ChatBubbleName_5",
+      "_startAt": "2026/10/09 12:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Millsage"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_DumbRock",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 6,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_6",
+      "_skinNameTextId": "ChatBubbleName_6",
+      "_startAt": "2026/10/18 11:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_DumbRock"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_MyGo",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 7,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_7",
+      "_skinNameTextId": "ChatBubbleName_7",
+      "_startAt": "2026/10/28 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_MyGo"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Wol",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 1006,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_1006",
+      "_skinNameTextId": "ChatBubbleName_1006",
+      "_startAt": "2026/09/28 12:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Wol"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Halloween",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 1007,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_1007",
+      "_skinNameTextId": "ChatBubbleName_1007",
+      "_startAt": "2026/10/28 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Halloween"
+    }
+  ]
+}

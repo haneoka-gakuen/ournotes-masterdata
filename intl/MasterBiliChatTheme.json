@@ -1,0 +1,95 @@
+{
+  "_allData": [
+    {
+      "_assetName": "EmbUI/BiliChatAtlas/ChatThemeSkinAtlas_Initial",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_id": 1,
+      "_isInitialOwnership": true,
+      "_isShowWhenLocked": true,
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/Initial",
+      "_skinDescTextId": "ChatThemeDesc_1",
+      "_skinNameTextId": "ChatThemeName_1",
+      "_startAt": "2026/06/01 00:00:00",
+      "_textAssetName": "EmbUI/BiliChatThemeText/ChatThemeText_Initial"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_Pink",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_id": 2,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/Pink",
+      "_skinDescTextId": "ChatThemeDesc_2",
+      "_skinNameTextId": "ChatThemeName_2",
+      "_startAt": "2026/06/01 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_Pink"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_RedGaga",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_id": 3,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/RedGaga",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_startAt": "2026/06/01 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_RedGaga"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_WhiteGaga",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_id": 4,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/WhiteGaga",
+      "_skinDescTextId": "ChatThemeDesc_4",
+      "_skinNameTextId": "ChatThemeName_4",
+      "_startAt": "2026/06/01 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_WhiteGaga"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_Millsage",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_id": 5,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/Millsage",
+      "_skinDescTextId": "ChatThemeDesc_5",
+      "_skinNameTextId": "ChatThemeName_5",
+      "_startAt": "2026/10/09 12:00:00",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_Millsage"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_DumbRock",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_id": 6,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/DumbRock",
+      "_skinDescTextId": "ChatThemeDesc_6",
+      "_skinNameTextId": "ChatThemeName_6",
+      "_startAt": "2026/10/18 11:00:00",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_DumbRock"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_MyGo",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_id": 7,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/MyGo",
+      "_skinDescTextId": "ChatThemeDesc_7",
+      "_skinNameTextId": "ChatThemeName_7",
+      "_startAt": "2026/10/28 00:00:00",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_MyGo"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "_allData": [
+    {
+      "_bgmSoundId": 1400000000001,
+      "_descriptionTextID": "Band_Description_mygo",
+      "_id": 1,
+      "_mainColorCode": "#3388BB",
+      "_memberRarityRBackgroundAssetPath": "MemberCard/MemberCommon/member_background1[formation]",
+      "_nameTextID": "Band_Name_mygo",
+      "_rankUpItemIdForRarityBD": 20000004,
+      "_rankUpItemIdForRarityR": 20000001,
+      "_rankUpItemIdForRaritySR": 20000002,
+      "_rankUpItemIdForRaritySSR": 20000003,
+      "_subColorCode": "#FFFFFF"
+    },
+    {
+      "_bgmSoundId": 1400000000027,
+      "_descriptionTextID": "Band_Description_mujica",
+      "_id": 2,
+      "_mainColorCode": "#881144",
+      "_memberRarityRBackgroundAssetPath": "MemberCard/MemberCommon/member_background2[formation]",
+      "_nameTextID": "Band_Name_mujica",
+      "_rankUpItemIdForRarityBD": 20000008,
+      "_rankUpItemIdForRarityR": 20000005,
+      "_rankUpItemIdForRaritySR": 20000006,
+      "_rankUpItemIdForRaritySSR": 20000007,
+      "_subColorCode": "#FFFFFF"
+    },
+    {
+      "_bgmSoundId": 1400000000054,
+      "_descriptionTextID": "Band_Description_yumemita",
+      "_id": 3,
+      "_mainColorCode": "#FF7788",
+      "_memberRarityRBackgroundAssetPath": "MemberCard/MemberCommon/member_background3[formation]",
+      "_nameTextID": "Band_Name_yumemita",
+      "_rankUpItemIdForRarityBD": 20000012,
+      "_rankUpItemIdForRarityR": 20000009,
+      "_rankUpItemIdForRaritySR": 20000010,
+      "_rankUpItemIdForRaritySSR": 20000011,
+      "_subColorCode": "#FFFFFF"
+    },
+    {
+      "_bgmSoundId": 1400000000069,
+      "_descriptionTextID": "Band_Description_millsage",
+      "_id": 4,
+      "_mainColorCode": "#AA22EE",
+      "_memberRarityRBackgroundAssetPath": "MemberCard/MemberCommon/member_background4[formation]",
+      "_nameTextID": "Band_Name_millsage",
+      "_rankUpItemIdForRarityBD": 20000016,
+      "_rankUpItemIdForRarityR": 20000013,
+      "_rankUpItemIdForRaritySR": 20000014,
+      "_rankUpItemIdForRaritySSR": 20000015,
+      "_subColorCode": "#FFFFFF"
+    },
+    {
+      "_bgmSoundId": 1400000000080,
+      "_descriptionTextID": "Band_Description_kadan",
+      "_id": 5,
+      "_mainColorCode": "#FFAA33",
+      "_memberRarityRBackgroundAssetPath": "MemberCard/MemberCommon/member_background5[formation]",
+      "_nameTextID": "Band_Name_kadan",
+      "_rankUpItemIdForRarityBD": 20000020,
+      "_rankUpItemIdForRarityR": 20000017,
+      "_rankUpItemIdForRaritySR": 20000018,
+      "_rankUpItemIdForRaritySSR": 20000019,
+      "_subColorCode": "#FFFFFF"
+    }
+  ]
+}

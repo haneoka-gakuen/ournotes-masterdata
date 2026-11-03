@@ -1,0 +1,124 @@
+{
+  "_allData": [
+    {
+      "_chanceLotType": 0,
+      "_id": 1,
+      "_lotResult": 0,
+      "_weight": 10
+    },
+    {
+      "_chanceLotType": 0,
+      "_id": 2,
+      "_lotResult": 1,
+      "_weight": 26
+    },
+    {
+      "_chanceLotType": 0,
+      "_id": 3,
+      "_lotResult": 2,
+      "_weight": 20
+    },
+    {
+      "_chanceLotType": 0,
+      "_id": 4,
+      "_lotResult": 3,
+      "_weight": 44
+    },
+    {
+      "_chanceLotType": 4,
+      "_id": 5,
+      "_lotResult": 0,
+      "_weight": 0
+    },
+    {
+      "_chanceLotType": 4,
+      "_id": 6,
+      "_lotResult": 1,
+      "_weight": 0
+    },
+    {
+      "_chanceLotType": 4,
+      "_id": 7,
+      "_lotResult": 2,
+      "_weight": 100
+    },
+    {
+      "_chanceLotType": 4,
+      "_id": 8,
+      "_lotResult": 3,
+      "_weight": 900
+    },
+    {
+      "_chanceLotType": 3,
+      "_id": 9,
+      "_lotResult": 0,
+      "_weight": 0
+    },
+    {
+      "_chanceLotType": 3,
+      "_id": 10,
+      "_lotResult": 1,
+      "_weight": 0
+    },
+    {
+      "_chanceLotType": 3,
+      "_id": 11,
+      "_lotResult": 2,
+      "_weight": 300
+    },
+    {
+      "_chanceLotType": 3,
+      "_id": 12,
+      "_lotResult": 3,
+      "_weight": 700
+    },
+    {
+      "_chanceLotType": 2,
+      "_id": 13,
+      "_lotResult": 0,
+      "_weight": 0
+    },
+    {
+      "_chanceLotType": 2,
+      "_id": 14,
+      "_lotResult": 1,
+      "_weight": 0
+    },
+    {
+      "_chanceLotType": 2,
+      "_id": 15,
+      "_lotResult": 2,
+      "_weight": 500
+    },
+    {
+      "_chanceLotType": 2,
+      "_id": 16,
+      "_lotResult": 3,
+      "_weight": 500
+    },
+    {
+      "_chanceLotType": 1,
+      "_id": 17,
+      "_lotResult": 0,
+      "_weight": 0
+    },
+    {
+      "_chanceLotType": 1,
+      "_id": 18,
+      "_lotResult": 1,
+      "_weight": 0
+    },
+    {
+      "_chanceLotType": 1,
+      "_id": 19,
+      "_lotResult": 2,
+      "_weight": 700
+    },
+    {
+      "_chanceLotType": 1,
+      "_id": 20,
+      "_lotResult": 3,
+      "_weight": 300
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_allData": [
+    {
+      "_animationGroupId": 1,
+      "_id": 1,
+      "_lotGroupId": 1,
+      "_pickupQuantity": 0,
+      "_priority": 1,
+      "_quantity": 0,
+      "_rarity": 2
+    },
+    {
+      "_animationGroupId": 1,
+      "_id": 2,
+      "_lotGroupId": 2,
+      "_pickupQuantity": 0,
+      "_priority": 2,
+      "_quantity": 1,
+      "_rarity": 3
+    },
+    {
+      "_animationGroupId": 1,
+      "_id": 3,
+      "_lotGroupId": 3,
+      "_pickupQuantity": 0,
+      "_priority": 3,
+      "_quantity": 2,
+      "_rarity": 3
+    },
+    {
+      "_animationGroupId": 1,
+      "_id": 4,
+      "_lotGroupId": 4,
+      "_pickupQuantity": 0,
+      "_priority": 4,
+      "_quantity": 1,
+      "_rarity": 4
+    },
+    {
+      "_animationGroupId": 1,
+      "_id": 5,
+      "_lotGroupId": 5,
+      "_pickupQuantity": 0,
+      "_priority": 5,
+      "_quantity": 2,
+      "_rarity": 4
+    },
+    {
+      "_animationGroupId": 1,
+      "_id": 6,
+      "_lotGroupId": 6,
+      "_pickupQuantity": 1,
+      "_priority": 6,
+      "_quantity": 1,
+      "_rarity": 4
+    }
+  ]
+}

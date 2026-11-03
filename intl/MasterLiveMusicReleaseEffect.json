@@ -1,0 +1,84 @@
+{
+  "_allData": [
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/10/02 0:00:00",
+      "_id": 1,
+      "_liveMusicId": 100066,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/09/25 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/10/03 0:00:00",
+      "_id": 2,
+      "_liveMusicId": 100020,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/09/26 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/10/04 0:00:00",
+      "_id": 3,
+      "_liveMusicId": 100108,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/09/27 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/10/05 0:00:00",
+      "_id": 4,
+      "_liveMusicId": 100047,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/09/28 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/10/06 0:00:00",
+      "_id": 5,
+      "_liveMusicId": 100104,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/09/29 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/10/10 0:00:00",
+      "_id": 6,
+      "_liveMusicId": 100112,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/10/03 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/10/23 0:00:00",
+      "_id": 7,
+      "_liveMusicId": 100113,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/10/16 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/10/30 0:00:00",
+      "_id": 8,
+      "_liveMusicId": 100102,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/10/23 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2026/11/09 0:00:00",
+      "_id": 9,
+      "_liveMusicId": 100086,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/11/02 15:00:00"
+    },
+    {
+      "_difficulty": 0,
+      "_endAt": "2027/09/23 0:00:00",
+      "_id": 1000000001,
+      "_liveMusicId": 100107,
+      "_releaseEffectType": 0,
+      "_startAt": "2026/09/24 00:00:00"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "_allData": [
+    {
+      "_eventGroup": 1,
+      "_group": 1,
+      "_id": 1,
+      "_probability": 10000,
+      "_resourceCount": 18,
+      "_resourceId": 42,
+      "_resourceType": 1,
+      "_scoreRank": 2
+    },
+    {
+      "_eventGroup": 1,
+      "_group": 1,
+      "_id": 2,
+      "_probability": 10000,
+      "_resourceCount": 30,
+      "_resourceId": 42,
+      "_resourceType": 1,
+      "_scoreRank": 3
+    },
+    {
+      "_eventGroup": 1,
+      "_group": 1,
+      "_id": 3,
+      "_probability": 10000,
+      "_resourceCount": 42,
+      "_resourceId": 42,
+      "_resourceType": 1,
+      "_scoreRank": 4
+    },
+    {
+      "_eventGroup": 1,
+      "_group": 1,
+      "_id": 4,
+      "_probability": 10000,
+      "_resourceCount": 60,
+      "_resourceId": 42,
+      "_resourceType": 1,
+      "_scoreRank": 5
+    },
+    {
+      "_eventGroup": 1,
+      "_group": 1,
+      "_id": 5,
+      "_probability": 10000,
+      "_resourceCount": 90,
+      "_resourceId": 42,
+      "_resourceType": 1,
+      "_scoreRank": 6
+    },
+    {
+      "_eventGroup": 1,
+      "_group": 1,
+      "_id": 6,
+      "_probability": 10000,
+      "_resourceCount": 120,
+      "_resourceId": 42,
+      "_resourceType": 1,
+      "_scoreRank": 7
+    },
+    {
+      "_eventGroup": 2,
+      "_group": 1,
+      "_id": 7,
+      "_probability": 10000,
+      "_resourceCount": 18,
+      "_resourceId": 43,
+      "_resourceType": 1,
+      "_scoreRank": 2
+    },
+    {
+      "_eventGroup": 2,
+      "_group": 1,
+      "_id": 8,
+      "_probability": 10000,
+      "_resourceCount": 30,
+      "_resourceId": 43,
+      "_resourceType": 1,
+      "_scoreRank": 3
+    },
+    {
+      "_eventGroup": 2,
+      "_group": 1,
+      "_id": 9,
+      "_probability": 10000,
+      "_resourceCount": 42,
+      "_resourceId": 43,
+      "_resourceType": 1,
+      "_scoreRank": 4
+    },
+    {
+      "_eventGroup": 2,
+      "_group": 1,
+      "_id": 10,
+      "_probability": 10000,
+      "_resourceCount": 60,
+      "_resourceId": 43,
+      "_resourceType": 1,
+      "_scoreRank": 5
+    },
+    {
+      "_eventGroup": 2,
+      "_group": 1,
+      "_id": 11,
+      "_probability": 10000,
+      "_resourceCount": 90,
+      "_resourceId": 43,
+      "_resourceType": 1,
+      "_scoreRank": 6
+    },
+    {
+      "_eventGroup": 2,
+      "_group": 1,
+      "_id": 12,
+      "_probability": 10000,
+      "_resourceCount": 120,
+      "_resourceId": 43,
+      "_resourceType": 1,
+      "_scoreRank": 7
+    },
+    {
+      "_eventGroup": 4,
+      "_group": 1,
+      "_id": 19,
+      "_probability": 10000,
+      "_resourceCount": 18,
+      "_resourceId": 45,
+      "_resourceType": 1,
+      "_scoreRank": 2
+    },
+    {
+      "_eventGroup": 4,
+      "_group": 1,
+      "_id": 20,
+      "_probability": 10000,
+      "_resourceCount": 30,
+      "_resourceId": 45,
+      "_resourceType": 1,
+      "_scoreRank": 3
+    },
+    {
+      "_eventGroup": 4,
+      "_group": 1,
+      "_id": 21,
+      "_probability": 10000,
+      "_resourceCount": 42,
+      "_resourceId": 45,
+      "_resourceType": 1,
+      "_scoreRank": 4
+    },
+    {
+      "_eventGroup": 4,
+      "_group": 1,
+      "_id": 22,
+      "_probability": 10000,
+      "_resourceCount": 60,
+      "_resourceId": 45,
+      "_resourceType": 1,
+      "_scoreRank": 5
+    },
+    {
+      "_eventGroup": 4,
+      "_group": 1,
+      "_id": 23,
+      "_probability": 10000,
+      "_resourceCount": 90,
+      "_resourceId": 45,
+      "_resourceType": 1,
+      "_scoreRank": 6
+    },
+    {
+      "_eventGroup": 4,
+      "_group": 1,
+      "_id": 24,
+      "_probability": 10000,
+      "_resourceCount": 120,
+      "_resourceId": 45,
+      "_resourceType": 1,
+      "_scoreRank": 7
+    },
+    {
+      "_eventGroup": 6,
+      "_group": 1,
+      "_id": 31,
+      "_probability": 10000,
+      "_resourceCount": 18,
+      "_resourceId": 71,
+      "_resourceType": 1,
+      "_scoreRank": 2
+    },
+    {
+      "_eventGroup": 6,
+      "_group": 1,
+      "_id": 32,
+      "_probability": 10000,
+      "_resourceCount": 30,
+      "_resourceId": 71,
+      "_resourceType": 1,
+      "_scoreRank": 3
+    },
+    {
+      "_eventGroup": 6,
+      "_group": 1,
+      "_id": 33,
+      "_probability": 10000,
+      "_resourceCount": 42,
+      "_resourceId": 71,
+      "_resourceType": 1,
+      "_scoreRank": 4
+    },
+    {
+      "_eventGroup": 6,
+      "_group": 1,
+      "_id": 34,
+      "_probability": 10000,
+      "_resourceCount": 60,
+      "_resourceId": 71,
+      "_resourceType": 1,
+      "_scoreRank": 5
+    },
+    {
+      "_eventGroup": 6,
+      "_group": 1,
+      "_id": 35,
+      "_probability": 10000,
+      "_resourceCount": 90,
+      "_resourceId": 71,
+      "_resourceType": 1,
+      "_scoreRank": 6
+    },
+    {
+      "_eventGroup": 6,
+      "_group": 1,
+      "_id": 36,
+      "_probability": 10000,
+      "_resourceCount": 120,
+      "_resourceId": 71,
+      "_resourceType": 1,
+      "_scoreRank": 7
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "_allData": [
+    {
+      "_bannerAsset": "Event",
+      "_displayOrder": 1,
+      "_displayTargetId": 0,
+      "_hasSubCategory": true,
+      "_id": 1,
+      "_isMusicShop": false,
+      "_isRankMatch": false,
+      "_nameTextId": "exchange_category_event"
+    },
+    {
+      "_bannerAsset": "GekisouArena",
+      "_displayOrder": 2,
+      "_displayTargetId": 0,
+      "_hasSubCategory": false,
+      "_id": 2,
+      "_isMusicShop": false,
+      "_isRankMatch": true,
+      "_nameTextId": "exchange_category_arena"
+    },
+    {
+      "_bannerAsset": "MusicShop",
+      "_displayOrder": 3,
+      "_displayTargetId": 0,
+      "_hasSubCategory": false,
+      "_id": 3,
+      "_isMusicShop": true,
+      "_isRankMatch": false,
+      "_nameTextId": "exchange_category_music"
+    },
+    {
+      "_bannerAsset": "OurNotesPt",
+      "_displayOrder": 4,
+      "_displayTargetId": 0,
+      "_hasSubCategory": false,
+      "_id": 4,
+      "_isMusicShop": false,
+      "_isRankMatch": false,
+      "_nameTextId": "exchange_category_ournotes"
+    },
+    {
+      "_bannerAsset": "Ticket",
+      "_displayOrder": 5,
+      "_displayTargetId": 0,
+      "_hasSubCategory": true,
+      "_id": 5,
+      "_isMusicShop": false,
+      "_isRankMatch": false,
+      "_nameTextId": "exchange_category_ticket"
+    },
+    {
+      "_bannerAsset": "GachaPt",
+      "_displayOrder": 6,
+      "_displayTargetId": 0,
+      "_hasSubCategory": true,
+      "_id": 6,
+      "_isMusicShop": false,
+      "_isRankMatch": false,
+      "_nameTextId": "exchange_category_gacha_point"
+    },
+    {
+      "_bannerAsset": "StarSeal",
+      "_displayOrder": 7,
+      "_displayTargetId": 0,
+      "_hasSubCategory": false,
+      "_id": 7,
+      "_isMusicShop": false,
+      "_isRankMatch": false,
+      "_nameTextId": "exchange_category_seal"
+    },
+    {
+      "_bannerAsset": "SerialCode",
+      "_displayOrder": 8,
+      "_displayTargetId": 0,
+      "_hasSubCategory": true,
+      "_id": 8,
+      "_isMusicShop": false,
+      "_isRankMatch": false,
+      "_nameTextId": "exchange_category_serial"
+    }
+  ]
+}

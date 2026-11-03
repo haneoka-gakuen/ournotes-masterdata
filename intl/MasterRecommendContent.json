@@ -1,0 +1,28 @@
+{
+  "_allData": [
+    {
+      "_bannerAsset": "https://l14-prod-hk-patch-sirius.gamerfusiontech.com/prod/hk_27f3c91e8b62d6056c7a19f2e83b6d10/operation/announcement/20261003_122137_6ac074c1924bf.png",
+      "_endAt": "",
+      "_id": 1000000001,
+      "_orderNum": 1,
+      "_startAt": "2026/09/25 17:00:00",
+      "_url": "https://bdon.biligames.com/details/?id=181789560857900960&lang=zh-tw"
+    },
+    {
+      "_bannerAsset": "https://l14-prod-hk-patch-sirius.gamerfusiontech.com/prod/hk_27f3c91e8b62d6056c7a19f2e83b6d10/operation/announcement/20260922_151100_6ab21bf4e1200.png",
+      "_endAt": "2026/10/02 23:59:59",
+      "_id": 1000000002,
+      "_orderNum": 2,
+      "_startAt": "2026/09/25 15:00:00",
+      "_url": "https://bdon.biligames.com/details/?id=181789560522046650&lang=zh-tw"
+    },
+    {
+      "_bannerAsset": "https://l14-prod-hk-patch-sirius.gamerfusiontech.com/prod/hk_27f3c91e8b62d6056c7a19f2e83b6d10/operation/announcement/20260922_151127_6ab21c0fa7eba.png",
+      "_endAt": "2026/10/18 23:59:59",
+      "_id": 1000000003,
+      "_orderNum": 3,
+      "_startAt": "2026/09/28 12:00:00",
+      "_url": "https://bdon.biligames.com/details/?id=181789561021989038&lang=zh-tw"
+    }
+  ]
+}

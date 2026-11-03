@@ -1,0 +1,232 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_maxValue": 1200,
+      "_minValue": 100,
+      "_optionItemType": 1
+    },
+    {
+      "_id": 2,
+      "_maxValue": 300,
+      "_minValue": -300,
+      "_optionItemType": 2
+    },
+    {
+      "_id": 3,
+      "_maxValue": 300,
+      "_minValue": -300,
+      "_optionItemType": 3
+    },
+    {
+      "_id": 4,
+      "_maxValue": 5,
+      "_minValue": -5,
+      "_optionItemType": 104
+    },
+    {
+      "_id": 5,
+      "_maxValue": 100,
+      "_minValue": 10,
+      "_optionItemType": 106
+    },
+    {
+      "_id": 6,
+      "_maxValue": 100,
+      "_minValue": 10,
+      "_optionItemType": 107
+    },
+    {
+      "_id": 7,
+      "_maxValue": 100,
+      "_minValue": 30,
+      "_optionItemType": 201
+    },
+    {
+      "_id": 8,
+      "_maxValue": 100,
+      "_minValue": 30,
+      "_optionItemType": 202
+    },
+    {
+      "_id": 9,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 300
+    },
+    {
+      "_id": 10,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 301
+    },
+    {
+      "_id": 11,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 308
+    },
+    {
+      "_id": 12,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 400
+    },
+    {
+      "_id": 13,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 401
+    },
+    {
+      "_id": 14,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 402
+    },
+    {
+      "_id": 15,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 410
+    },
+    {
+      "_id": 16,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 411
+    },
+    {
+      "_id": 17,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 412
+    },
+    {
+      "_id": 18,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 413
+    },
+    {
+      "_id": 19,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 431
+    },
+    {
+      "_id": 20,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 433
+    },
+    {
+      "_id": 21,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 435
+    },
+    {
+      "_id": 22,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 437
+    },
+    {
+      "_id": 23,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 439
+    },
+    {
+      "_id": 24,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 441
+    },
+    {
+      "_id": 25,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 451
+    },
+    {
+      "_id": 26,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 453
+    },
+    {
+      "_id": 27,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 455
+    },
+    {
+      "_id": 28,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 457
+    },
+    {
+      "_id": 29,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 459
+    },
+    {
+      "_id": 30,
+      "_maxValue": 300,
+      "_minValue": -300,
+      "_optionItemType": 500
+    },
+    {
+      "_id": 31,
+      "_maxValue": 300,
+      "_minValue": -300,
+      "_optionItemType": 501
+    },
+    {
+      "_id": 32,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 510
+    },
+    {
+      "_id": 33,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 511
+    },
+    {
+      "_id": 34,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 512
+    },
+    {
+      "_id": 35,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 520
+    },
+    {
+      "_id": 36,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 521
+    },
+    {
+      "_id": 37,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 522
+    },
+    {
+      "_id": 38,
+      "_maxValue": 100,
+      "_minValue": 0,
+      "_optionItemType": 523
+    }
+  ]
+}

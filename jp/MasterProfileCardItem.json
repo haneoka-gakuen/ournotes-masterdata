@@ -1,0 +1,52 @@
+{
+  "_allData": [
+    {
+      "_assetPath": "Band/1/band_room_background",
+      "_descriptionTextId": "",
+      "_id": 1,
+      "_itemType": 1,
+      "_nameTextId": "",
+      "_overwriteItemAspectRatio": 0
+    },
+    {
+      "_assetPath": "Band/1/band_stage_background",
+      "_descriptionTextId": "",
+      "_id": 2,
+      "_itemType": 1,
+      "_nameTextId": "",
+      "_overwriteItemAspectRatio": 0
+    },
+    {
+      "_assetPath": "Band/1/band_studio_background",
+      "_descriptionTextId": "",
+      "_id": 3,
+      "_itemType": 1,
+      "_nameTextId": "",
+      "_overwriteItemAspectRatio": 0
+    },
+    {
+      "_assetPath": "Adv/Stage/adv_bkg_stage_000001/data/adv_bkg_stage_000001",
+      "_descriptionTextId": "",
+      "_id": 4,
+      "_itemType": 2,
+      "_nameTextId": "",
+      "_overwriteItemAspectRatio": 0
+    },
+    {
+      "_assetPath": "Adv/Stage/adv_bkg_stage_000002/data/adv_bkg_stage_000002",
+      "_descriptionTextId": "",
+      "_id": 5,
+      "_itemType": 2,
+      "_nameTextId": "",
+      "_overwriteItemAspectRatio": 0
+    },
+    {
+      "_assetPath": "Adv/Stage/adv_bkg_stage_000005/data/adv_bkg_stage_000005",
+      "_descriptionTextId": "",
+      "_id": 6,
+      "_itemType": 2,
+      "_nameTextId": "",
+      "_overwriteItemAspectRatio": 0
+    }
+  ]
+}

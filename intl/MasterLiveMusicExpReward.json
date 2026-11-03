@@ -1,0 +1,70 @@
+{
+  "_allData": [
+    {
+      "_characterRankExp": 0,
+      "_circlePoint": 0,
+      "_eventPoint": 5,
+      "_friendshipExp": 250,
+      "_id": 1,
+      "_livePoint": 0,
+      "_liveScoreRank": 2,
+      "_memberCardExp": 500,
+      "_playerExp": 300
+    },
+    {
+      "_characterRankExp": 0,
+      "_circlePoint": 0,
+      "_eventPoint": 10,
+      "_friendshipExp": 300,
+      "_id": 2,
+      "_livePoint": 0,
+      "_liveScoreRank": 3,
+      "_memberCardExp": 600,
+      "_playerExp": 300
+    },
+    {
+      "_characterRankExp": 0,
+      "_circlePoint": 0,
+      "_eventPoint": 15,
+      "_friendshipExp": 350,
+      "_id": 3,
+      "_livePoint": 0,
+      "_liveScoreRank": 4,
+      "_memberCardExp": 700,
+      "_playerExp": 300
+    },
+    {
+      "_characterRankExp": 0,
+      "_circlePoint": 0,
+      "_eventPoint": 20,
+      "_friendshipExp": 400,
+      "_id": 4,
+      "_livePoint": 0,
+      "_liveScoreRank": 5,
+      "_memberCardExp": 800,
+      "_playerExp": 300
+    },
+    {
+      "_characterRankExp": 0,
+      "_circlePoint": 0,
+      "_eventPoint": 25,
+      "_friendshipExp": 450,
+      "_id": 5,
+      "_livePoint": 0,
+      "_liveScoreRank": 6,
+      "_memberCardExp": 900,
+      "_playerExp": 300
+    },
+    {
+      "_characterRankExp": 0,
+      "_circlePoint": 0,
+      "_eventPoint": 30,
+      "_friendshipExp": 500,
+      "_id": 6,
+      "_livePoint": 0,
+      "_liveScoreRank": 7,
+      "_memberCardExp": 1000,
+      "_playerExp": 300
+    }
+  ]
+}

@@ -1,0 +1,1306 @@
+{
+  "_allData": [
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_tomori_001_01_hs_1st_01",
+      "_id": 10001,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_tomori_001_01_hs_1st_01_group",
+      "_id": 10002,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_anon_002_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_anon_002_01_hs_1st_01",
+      "_id": 10003,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_anon_002_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_anon_002_01_hs_1st_01_group",
+      "_id": 10004,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_rana_003_chaticon_jhs_3rd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_rana_003_01_jhs_3rd_01",
+      "_id": 10005,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_rana_003_chaticon_jhs_3rd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_rana_003_01_jhs_3rd_01_group",
+      "_id": 10006,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_soyo_004_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_soyo_004_01_hs_1st_01",
+      "_id": 10007,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_soyo_004_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_soyo_004_01_hs_1st_01_group",
+      "_id": 10008,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_taki_005_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_taki_001_01_hs_1st_01",
+      "_id": 10009,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_taki_005_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_taki_001_01_hs_1st_01_group",
+      "_id": 10010,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_tomori_001_01_hs_1st_01",
+      "_id": 10011,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_tomori_001_01_hs_1st_01_group",
+      "_id": 10012,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_anon_002_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_anon_002_01_hs_1st_01",
+      "_id": 10013,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_anon_002_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_anon_002_01_hs_1st_01_group",
+      "_id": 10014,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_rana_003_chaticon_jhs_3rd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_rana_003_01_jhs_3rd_01",
+      "_id": 10015,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_rana_003_chaticon_jhs_3rd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_rana_003_01_jhs_3rd_01_group",
+      "_id": 10016,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_soyo_004_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_soyo_004_01_hs_1st_01",
+      "_id": 10017,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_soyo_004_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_soyo_004_01_hs_1st_01_group",
+      "_id": 10018,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_taki_005_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_taki_001_01_hs_1st_01",
+      "_id": 10019,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_taki_005_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_taki_001_01_hs_1st_01_group",
+      "_id": 10020,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10021,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_anon_002_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10022,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_rana_003_chaticon_jhs_3rd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10023,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_soyo_004_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10024,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_taki_005_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10025,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10026,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_anon_002_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10027,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_rana_003_chaticon_jhs_3rd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10028,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_soyo_004_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10029,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_taki_005_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10030,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_kiyotsugu_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "",
+      "_id": 10031,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_02_ovelay_01_group",
+      "_id": 10032,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nonoka_001_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_02_ovelay_01_group",
+      "_id": 10033,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_02_ovelay_01_group",
+      "_id": 10034,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miyako_001_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_02_ovelay_01_group",
+      "_id": 10035,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yuno_001_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_02_ovelay_01_group",
+      "_id": 10036,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_02_ovelay_01",
+      "_id": 10037,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_uika_006_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_uika_006_01_hs_1st_01",
+      "_id": 10038,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_uika_006_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_uika_006_01_hs_1st_01_group",
+      "_id": 10039,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mutsumi_007_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_mutsumi_007_01_hs_1st_01",
+      "_id": 10040,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mutsumi_007_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_mutsumi_007_01_hs_1st_01_group",
+      "_id": 10041,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_umiri_008_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_umiri_008_01_hs_1st_01",
+      "_id": 10042,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_umiri_008_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_umiri_008_01_hs_1st_01_group",
+      "_id": 10043,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nyamu_009_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_nyamu_009_01_hs_1st_01",
+      "_id": 10044,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nyamu_009_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_nyamu_009_01_hs_1st_01_group",
+      "_id": 10045,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_sakiko_010_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_sakiko_010_01_hs_1st_01",
+      "_id": 10046,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_sakiko_010_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_sakiko_010_01_hs_1st_01_group",
+      "_id": 10047,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_uika_006_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10048,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_uika_006_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10049,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mutsumi_007_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10050,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mutsumi_007_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10051,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_umiri_008_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10052,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_umiri_008_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10053,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nyamu_009_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10054,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nyamu_009_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10055,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_sakiko_010_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10056,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_sakiko_010_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10057,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_minami_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "",
+      "_id": 10058,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10059,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_anon_002_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10060,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_rana_003_chaticon_jhs_3rd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10061,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_soyo_004_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10062,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_taki_005_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10063,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10064,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_anon_002_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10065,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_rana_003_chaticon_jhs_3rd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10066,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_soyo_004_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10067,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_taki_005_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10068,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 99998,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_tomori_001_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 99999,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_hotaru_016_chaticon_jhs_3rd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_hotaru_016_01_jhs_3rd_01",
+      "_id": 10069,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_hotaru_016_chaticon_jhs_3rd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_hotaru_016_01_jhs_3rd_01_group",
+      "_id": 10070,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_natsume_017_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_natsume_017_01_hs_2nd_01",
+      "_id": 10071,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_natsume_017_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_natsume_017_01_hs_2nd_01_group",
+      "_id": 10072,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_nagi_018_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_nagi_018_01_hs_1st_01",
+      "_id": 10073,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_nagi_018_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_nagi_018_01_hs_1st_01_group",
+      "_id": 10074,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_mahoro_019_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_mahoro_019_01_hs_2nd_01",
+      "_id": 10075,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_mahoro_019_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_mahoro_019_01_hs_2nd_01_group",
+      "_id": 10076,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_houka_020_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_houka_020_01_hs_1st_01",
+      "_id": 10077,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_houka_020_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_houka_020_01_hs_1st_01_group",
+      "_id": 10078,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_hotaru_016_chaticon_jhs_3rd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_hotaru_016_01_jhs_3rd_01",
+      "_id": 10079,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_hotaru_016_chaticon_jhs_3rd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_hotaru_016_01_jhs_3rd_01_group",
+      "_id": 10080,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_natsume_017_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_natsume_017_01_hs_2nd_01",
+      "_id": 10081,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_natsume_017_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_natsume_017_01_hs_2nd_01_group",
+      "_id": 10082,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nagi_018_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_nagi_018_01_hs_1st_01",
+      "_id": 10083,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nagi_018_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_nagi_018_01_hs_1st_01_group",
+      "_id": 10084,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mahoro_019_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_mahoro_019_01_hs_2nd_01",
+      "_id": 10085,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mahoro_019_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_mahoro_019_01_hs_2nd_01_group",
+      "_id": 10086,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_houka_020_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_houka_020_01_hs_1st_01",
+      "_id": 10087,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_houka_020_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_houka_020_01_hs_1st_01_group",
+      "_id": 10088,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_hotaru_016_chaticon_jhs_3rd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10089,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_natsume_017_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10090,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_nagi_018_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10091,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_mahoro_019_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10092,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_houka_020_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10093,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_hotaru_016_chaticon_jhs_3rd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10094,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_natsume_017_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10095,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_nagi_018_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10096,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_mahoro_019_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10097,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_houka_020_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10098,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_hotaru_016_chaticon_jhs_3rd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10099,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_natsume_017_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10100,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nagi_018_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10101,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mahoro_019_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10102,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_houka_020_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10103,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_hotaru_016_chaticon_jhs_3rd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10104,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_natsume_017_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10105,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nagi_018_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10106,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mahoro_019_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10107,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_houka_020_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10108,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_kanata_sub_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "",
+      "_id": 10109,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_raika_021_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_raika_021_01_hs_2nd_01",
+      "_id": 10110,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_raika_021_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_raika_021_01_hs_2nd_01_group",
+      "_id": 10111,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_miku_022_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_miku_022_01_hs_2nd_01",
+      "_id": 10112,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_miku_022_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_miku_022_01_hs_2nd_01_group",
+      "_id": 10113,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_yomogi_023_chaticon_col_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_yomogi_023_01_col_1st_01",
+      "_id": 10114,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_yomogi_023_chaticon_col_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_yomogi_023_01_col_1st_01_group",
+      "_id": 10115,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_chieri_024_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_chieri_024_01_hs_1st_01",
+      "_id": 10116,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_chieri_024_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_chieri_024_01_hs_1st_01_group",
+      "_id": 10117,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_shizuku_025_chaticon_jhs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_shizuku_025_01_jhs_2nd_01",
+      "_id": 10118,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_shizuku_025_chaticon_jhs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_shizuku_025_01_jhs_2nd_01_group",
+      "_id": 10119,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_raika_021_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_raika_021_01_hs_2nd_01",
+      "_id": 10120,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_raika_021_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_raika_021_01_hs_2nd_01_group",
+      "_id": 10121,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miku_022_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_miku_022_01_hs_2nd_01",
+      "_id": 10122,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miku_022_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_miku_022_01_hs_2nd_01_group",
+      "_id": 10123,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yomogi_023_chaticon_col_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_yomogi_023_01_col_1st_01",
+      "_id": 10124,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yomogi_023_chaticon_col_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_yomogi_023_01_col_1st_01_group",
+      "_id": 10125,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_chieri_024_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_chieri_024_01_hs_1st_01",
+      "_id": 10126,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_chieri_024_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_chieri_024_01_hs_1st_01_group",
+      "_id": 10127,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_shizuku_025_chaticon_jhs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_shizuku_025_01_jhs_2nd_01",
+      "_id": 10128,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_shizuku_025_chaticon_jhs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_shizuku_025_01_jhs_2nd_01_group",
+      "_id": 10129,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_raika_021_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10130,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_raika_021_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10131,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_miku_022_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10132,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_miku_022_chaticon_hs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10133,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_yomogi_023_chaticon_col_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10134,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_yomogi_023_chaticon_col_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10135,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_chieri_024_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10136,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_chieri_024_chaticon_hs_1st_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10137,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_shizuku_025_chaticon_jhs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10138,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_shizuku_025_chaticon_jhs_2nd_01",
+      "_chatSoundId": 2100000000053,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10139,
+      "_inOutSoundId": 2100000000185
+    },
+    {
+      "_chatIconAssetName": "adv_data_raika_021_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10140,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_raika_021_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10141,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miku_022_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10142,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miku_022_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10143,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yomogi_023_chaticon_col_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10144,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yomogi_023_chaticon_col_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10145,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_chieri_024_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10146,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_chieri_024_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10147,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_shizuku_025_chaticon_jhs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01",
+      "_id": 10148,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_shizuku_025_chaticon_jhs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_01_ovelay_01_group",
+      "_id": 10149,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mikumother_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "",
+      "_id": 10150,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_011_chaticon_hs_1st_02",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_arale_011_02_hs_1st_01",
+      "_id": 10151,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_011_chaticon_hs_1st_02",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_arale_011_02_hs_1st_01_group",
+      "_id": 10152,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nonoka_012_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_nonoka_012_02_hs_2nd_01",
+      "_id": 10153,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nonoka_012_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_nonoka_012_02_hs_2nd_01_group",
+      "_id": 10154,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_013_chaticon_hs_1st_02",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_ritsu_013_02_hs_1st_01",
+      "_id": 10155,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_013_chaticon_hs_1st_02",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_ritsu_013_02_hs_1st_01_group",
+      "_id": 10156,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miyako_014_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_miyako_014_02_hs_2nd_01",
+      "_id": 10157,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miyako_014_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_miyako_014_02_hs_2nd_01_group",
+      "_id": 10158,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yuno_015_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_yuno_015_02_hs_2nd_01",
+      "_id": 10159,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yuno_015_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_yuno_015_02_hs_2nd_01_group",
+      "_id": 10160,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_011_chaticon_hs_1st_02",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_arale_011_01_hs_1st_01",
+      "_id": 10161,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_011_chaticon_hs_1st_02",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_arale_011_01_hs_1st_01_group",
+      "_id": 10162,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nonoka_012_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_nonoka_012_01_hs_2nd_01",
+      "_id": 10163,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_nonoka_012_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_nonoka_012_01_hs_2nd_01_group",
+      "_id": 10164,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_013_chaticon_hs_1st_02",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_ritsu_013_01_hs_1st_01",
+      "_id": 10165,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_013_chaticon_hs_1st_02",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_ritsu_013_01_hs_1st_01_group",
+      "_id": 10166,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miyako_014_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_miyako_014_01_hs_2nd_01",
+      "_id": 10167,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_miyako_014_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_miyako_014_01_hs_2nd_01_group",
+      "_id": 10168,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yuno_015_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_yuno_015_01_hs_2nd_01",
+      "_id": 10169,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yuno_015_chaticon_hs_2nd_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_yuno_015_01_hs_2nd_01_group",
+      "_id": 10170,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_yumemitamanager_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "",
+      "_id": 10171,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_011_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_arale_011_02_hs_1st_01",
+      "_id": 10172,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_011_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_arale_011_02_hs_1st_01_group",
+      "_id": 10173,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_013_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_ritsu_013_02_hs_1st_01",
+      "_id": 10174,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_013_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_ritsu_013_02_hs_1st_01_group",
+      "_id": 10175,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_011_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_arale_011_01_hs_1st_01",
+      "_id": 10176,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_arale_011_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_arale_011_01_hs_1st_01_group",
+      "_id": 10177,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_013_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_ritsu_013_01_hs_1st_01",
+      "_id": 10178,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_ritsu_013_chaticon_hs_1st_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_ritsu_013_01_hs_1st_01_group",
+      "_id": 10179,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_viola_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_viola_sub_01_01",
+      "_id": 10180,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_viola_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_viola_sub_01_01_group",
+      "_id": 10181,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_viola_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_viola_sub_02_01",
+      "_id": 10182,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_viola_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "adv_data_viola_sub_02_01_group",
+      "_id": 10183,
+      "_inOutSoundId": 0
+    },
+    {
+      "_chatIconAssetName": "adv_data_mikustepfather_sub_chaticon_01",
+      "_chatSoundId": 0,
+      "_chatWindowAssetName": "",
+      "_id": 10184,
+      "_inOutSoundId": 0
+    }
+  ]
+}

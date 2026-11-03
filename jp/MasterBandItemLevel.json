@@ -1,0 +1,4504 @@
+{
+  "_allData": [
+    {
+      "_bandItemId": 101,
+      "_id": 101001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 101,
+      "_id": 101030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 102,
+      "_id": 102030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 103,
+      "_id": 103030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 104,
+      "_id": 104030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 105,
+      "_id": 105030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 201,
+      "_id": 201030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 202,
+      "_id": 202030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 203,
+      "_id": 203030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 204,
+      "_id": 204030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 205,
+      "_id": 205030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 301,
+      "_id": 301030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 302,
+      "_id": 302030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 303,
+      "_id": 303030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 304,
+      "_id": 304030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 305,
+      "_id": 305030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 401,
+      "_id": 401030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 402,
+      "_id": 402030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 404,
+      "_id": 404030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 403,
+      "_id": 403030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 405,
+      "_id": 405030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 501,
+      "_id": 501030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 502,
+      "_id": 502030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 503,
+      "_id": 503030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 504,
+      "_id": 504030,
+      "_level": 30,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505001,
+      "_level": 1,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505002,
+      "_level": 2,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505003,
+      "_level": 3,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505004,
+      "_level": 4,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505005,
+      "_level": 5,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505006,
+      "_level": 6,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505007,
+      "_level": 7,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505008,
+      "_level": 8,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505009,
+      "_level": 9,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505010,
+      "_level": 10,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505011,
+      "_level": 11,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505012,
+      "_level": 12,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505013,
+      "_level": 13,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505014,
+      "_level": 14,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505015,
+      "_level": 15,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505016,
+      "_level": 16,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505017,
+      "_level": 17,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505018,
+      "_level": 18,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505019,
+      "_level": 19,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505020,
+      "_level": 20,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505021,
+      "_level": 21,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505022,
+      "_level": 22,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505023,
+      "_level": 23,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505024,
+      "_level": 24,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505025,
+      "_level": 25,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505026,
+      "_level": 26,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505027,
+      "_level": 27,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505028,
+      "_level": 28,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505029,
+      "_level": 29,
+      "_playerRank": 1
+    },
+    {
+      "_bandItemId": 505,
+      "_id": 505030,
+      "_level": 30,
+      "_playerRank": 1
+    }
+  ]
+}

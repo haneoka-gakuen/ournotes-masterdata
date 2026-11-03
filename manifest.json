@@ -1,0 +1,19 @@
+{
+  "schema": "haneoka-masterdata-v1",
+  "servers": {
+    "jp": {
+      "sha256": "5de7ab5c7481db85a1216124d8232242eeac9dd1d5ee8082d70e01341c75022b",
+      "files": 247,
+      "version": "1.1.0.200",
+      "input": "45c4bb90da9c1c8c47da519565f4d1f12fd58a0769df56ba1bf9bad3234e2f4e",
+      "hash": "8be74134b87dacf7ce1f38967cd66745"
+    },
+    "intl": {
+      "sha256": "f2da1e12d7a54df6b06b1949b7ba7b0aca96ca795e4f047611db158fa018ddcb",
+      "files": 252,
+      "version": "1.1.0.200",
+      "input": "eedf6487a0d0f5cf79e1eae80b78a518f63d7a757a5cf6d422a2a478c3b3358a",
+      "hash": "c045774b66a6c9d107739ba5ca121e6a"
+    }
+  }
+}

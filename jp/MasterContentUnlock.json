@@ -1,0 +1,18 @@
+{
+  "_allData": [
+    {
+      "_contentUnlockType": 6,
+      "_id": 1,
+      "_nameTextID": "Content_Name_1",
+      "_playerRank": 5,
+      "_targetDisplay": 21
+    },
+    {
+      "_contentUnlockType": 2,
+      "_id": 2,
+      "_nameTextID": "Content_Name_2",
+      "_playerRank": 5,
+      "_targetDisplay": 16
+    }
+  ]
+}

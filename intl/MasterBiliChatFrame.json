@@ -1,0 +1,125 @@
+{
+  "_allData": [
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_0",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 1,
+      "_isInitialOwnership": true,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_1",
+      "_skinNameTextId": "ChatFrameName_1",
+      "_startAt": "2026/06/01 00:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_1",
+      "_endAt": "2046/07/01 00:00:01",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 2,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_2",
+      "_skinNameTextId": "ChatFrameName_2",
+      "_startAt": "2026/06/01 00:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_2",
+      "_endAt": "2046/07/01 00:00:02",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 3,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_3",
+      "_skinNameTextId": "ChatFrameName_3",
+      "_startAt": "2026/06/01 00:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_3",
+      "_endAt": "2046/07/01 00:00:03",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 4,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_4",
+      "_skinNameTextId": "ChatFrameName_4",
+      "_startAt": "2026/06/01 00:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_4",
+      "_endAt": "2046/07/01 00:00:03",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 5,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_5",
+      "_skinNameTextId": "ChatFrameName_5",
+      "_startAt": "2026/10/09 12:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_5",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 6,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_6",
+      "_skinNameTextId": "ChatFrameName_6",
+      "_startAt": "2026/10/18 11:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_6",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 7,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_7",
+      "_skinNameTextId": "ChatFrameName_7",
+      "_startAt": "2026/10/28 00:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_1001",
+      "_endAt": "2046/07/01 00:00:04",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 1001,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_1001",
+      "_skinNameTextId": "ChatFrameName_1001",
+      "_startAt": "2026/06/01 00:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_1004",
+      "_endAt": "2046/07/01 00:00:06",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 1004,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_1004",
+      "_skinNameTextId": "ChatFrameName_1004",
+      "_startAt": "2026/06/01 00:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_1006",
+      "_endAt": "2046/07/01 00:00:07",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 1006,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_1006",
+      "_skinNameTextId": "ChatFrameName_1006",
+      "_startAt": "2026/09/28 12:00:00"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_1007",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 1007,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_1007",
+      "_skinNameTextId": "ChatFrameName_1007",
+      "_startAt": "2026/10/28 00:00:00"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_allData": [
+    {
+      "_branchEntry": 0,
+      "_branchName": "Weather",
+      "_groupId": 1,
+      "_id": 1,
+      "_normalWeight": 100,
+      "_ssrWeight": 800
+    },
+    {
+      "_branchEntry": 1,
+      "_branchName": "Weather",
+      "_groupId": 1,
+      "_id": 2,
+      "_normalWeight": 0,
+      "_ssrWeight": 200
+    }
+  ]
+}

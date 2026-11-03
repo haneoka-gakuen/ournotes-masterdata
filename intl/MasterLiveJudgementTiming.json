@@ -1,0 +1,2488 @@
+{
+  "_allData": [
+    {
+      "_afterMs": 2,
+      "_assistLevel": 0,
+      "_beforeMs": 2,
+      "_id": 1,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 0,
+      "_beforeMs": 50,
+      "_id": 2,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 0,
+      "_beforeMs": 83,
+      "_id": 3,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 100,
+      "_assistLevel": 0,
+      "_beforeMs": 100,
+      "_id": 4,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 125,
+      "_assistLevel": 0,
+      "_beforeMs": 125,
+      "_id": 5,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 0,
+      "_beforeMs": 130,
+      "_id": 6,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 0,
+      "_beforeMs": 2,
+      "_id": 7,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 0,
+      "_beforeMs": 50,
+      "_id": 8,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 0,
+      "_beforeMs": 83,
+      "_id": 9,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 100,
+      "_assistLevel": 0,
+      "_beforeMs": 100,
+      "_id": 10,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 125,
+      "_assistLevel": 0,
+      "_beforeMs": 125,
+      "_id": 11,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 0,
+      "_beforeMs": 130,
+      "_id": 12,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 66,
+      "_assistLevel": 0,
+      "_beforeMs": 84,
+      "_id": 13,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 166,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 14,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 191,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 15,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 208,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 16,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 150,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 17,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 0,
+      "_beforeMs": 2,
+      "_id": 18,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 0,
+      "_beforeMs": 83,
+      "_id": 19,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 20,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 117,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 21,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 125,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 22,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 23,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 0,
+      "_beforeMs": 2,
+      "_id": 24,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 0,
+      "_beforeMs": 83,
+      "_id": 25,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 26,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 117,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 27,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 125,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 28,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 29,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 0,
+      "_beforeMs": 67,
+      "_id": 30,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 31,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 0,
+      "_beforeMs": 67,
+      "_id": 32,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 0,
+      "_beforeMs": 0,
+      "_id": 33,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 0,
+      "_beforeMs": 2,
+      "_id": 34,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 0,
+      "_beforeMs": 67,
+      "_id": 35,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 0,
+      "_beforeMs": 58,
+      "_id": 36,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 0,
+      "_beforeMs": 2,
+      "_id": 37,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 0,
+      "_beforeMs": 67,
+      "_id": 38,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 0,
+      "_beforeMs": 58,
+      "_id": 39,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 1,
+      "_beforeMs": 2,
+      "_id": 40,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 1,
+      "_beforeMs": 50,
+      "_id": 41,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 1,
+      "_beforeMs": 83,
+      "_id": 42,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 111,
+      "_assistLevel": 1,
+      "_beforeMs": 111,
+      "_id": 43,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 128,
+      "_assistLevel": 1,
+      "_beforeMs": 128,
+      "_id": 44,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 133,
+      "_assistLevel": 1,
+      "_beforeMs": 133,
+      "_id": 45,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 1,
+      "_beforeMs": 2,
+      "_id": 46,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 1,
+      "_beforeMs": 50,
+      "_id": 47,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 1,
+      "_beforeMs": 83,
+      "_id": 48,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 111,
+      "_assistLevel": 1,
+      "_beforeMs": 111,
+      "_id": 49,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 128,
+      "_assistLevel": 1,
+      "_beforeMs": 128,
+      "_id": 50,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 133,
+      "_assistLevel": 1,
+      "_beforeMs": 133,
+      "_id": 51,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 66,
+      "_assistLevel": 1,
+      "_beforeMs": 84,
+      "_id": 52,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 166,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 53,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 196,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 54,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 214,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 55,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 216,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 56,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 1,
+      "_beforeMs": 2,
+      "_id": 57,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 1,
+      "_beforeMs": 88,
+      "_id": 58,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 59,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 120,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 60,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 61,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 135,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 62,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 1,
+      "_beforeMs": 2,
+      "_id": 63,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 1,
+      "_beforeMs": 88,
+      "_id": 64,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 65,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 120,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 66,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 130,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 67,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 135,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 68,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 72,
+      "_assistLevel": 1,
+      "_beforeMs": 72,
+      "_id": 69,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 133,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 70,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 72,
+      "_assistLevel": 1,
+      "_beforeMs": 72,
+      "_id": 71,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 133,
+      "_assistLevel": 1,
+      "_beforeMs": 0,
+      "_id": 72,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 1,
+      "_beforeMs": 2,
+      "_id": 73,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 72,
+      "_assistLevel": 1,
+      "_beforeMs": 72,
+      "_id": 74,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 133,
+      "_assistLevel": 1,
+      "_beforeMs": 58,
+      "_id": 75,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 1,
+      "_beforeMs": 2,
+      "_id": 76,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 72,
+      "_assistLevel": 1,
+      "_beforeMs": 72,
+      "_id": 77,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 133,
+      "_assistLevel": 1,
+      "_beforeMs": 58,
+      "_id": 78,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 2,
+      "_beforeMs": 2,
+      "_id": 79,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 2,
+      "_beforeMs": 50,
+      "_id": 80,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 2,
+      "_beforeMs": 83,
+      "_id": 81,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 114,
+      "_assistLevel": 2,
+      "_beforeMs": 114,
+      "_id": 82,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 132,
+      "_assistLevel": 2,
+      "_beforeMs": 132,
+      "_id": 83,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 137,
+      "_assistLevel": 2,
+      "_beforeMs": 137,
+      "_id": 84,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 2,
+      "_beforeMs": 2,
+      "_id": 85,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 2,
+      "_beforeMs": 50,
+      "_id": 86,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 2,
+      "_beforeMs": 83,
+      "_id": 87,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 114,
+      "_assistLevel": 2,
+      "_beforeMs": 114,
+      "_id": 88,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 132,
+      "_assistLevel": 2,
+      "_beforeMs": 132,
+      "_id": 89,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 137,
+      "_assistLevel": 2,
+      "_beforeMs": 137,
+      "_id": 90,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 66,
+      "_assistLevel": 2,
+      "_beforeMs": 84,
+      "_id": 91,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 166,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 92,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 202,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 93,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 220,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 94,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 222,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 95,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 2,
+      "_beforeMs": 2,
+      "_id": 96,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 2,
+      "_beforeMs": 93,
+      "_id": 97,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 98,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 124,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 99,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 135,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 100,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 140,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 101,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 2,
+      "_beforeMs": 2,
+      "_id": 102,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 2,
+      "_beforeMs": 93,
+      "_id": 103,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 104,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 124,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 105,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 135,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 106,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 140,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 107,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 77,
+      "_assistLevel": 2,
+      "_beforeMs": 77,
+      "_id": 108,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 137,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 109,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 77,
+      "_assistLevel": 2,
+      "_beforeMs": 77,
+      "_id": 110,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 137,
+      "_assistLevel": 2,
+      "_beforeMs": 0,
+      "_id": 111,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 2,
+      "_beforeMs": 2,
+      "_id": 112,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 77,
+      "_assistLevel": 2,
+      "_beforeMs": 77,
+      "_id": 113,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 137,
+      "_assistLevel": 2,
+      "_beforeMs": 58,
+      "_id": 114,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 2,
+      "_beforeMs": 2,
+      "_id": 115,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 77,
+      "_assistLevel": 2,
+      "_beforeMs": 77,
+      "_id": 116,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 137,
+      "_assistLevel": 2,
+      "_beforeMs": 58,
+      "_id": 117,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 3,
+      "_beforeMs": 2,
+      "_id": 118,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 3,
+      "_beforeMs": 50,
+      "_id": 119,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 3,
+      "_beforeMs": 83,
+      "_id": 120,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 118,
+      "_assistLevel": 3,
+      "_beforeMs": 118,
+      "_id": 121,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 137,
+      "_assistLevel": 3,
+      "_beforeMs": 137,
+      "_id": 122,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 143,
+      "_assistLevel": 3,
+      "_beforeMs": 143,
+      "_id": 123,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 3,
+      "_beforeMs": 2,
+      "_id": 124,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 3,
+      "_beforeMs": 50,
+      "_id": 125,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 3,
+      "_beforeMs": 83,
+      "_id": 126,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 118,
+      "_assistLevel": 3,
+      "_beforeMs": 118,
+      "_id": 127,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 137,
+      "_assistLevel": 3,
+      "_beforeMs": 137,
+      "_id": 128,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 143,
+      "_assistLevel": 3,
+      "_beforeMs": 143,
+      "_id": 129,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 66,
+      "_assistLevel": 3,
+      "_beforeMs": 84,
+      "_id": 130,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 166,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 131,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 210,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 132,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 229,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 133,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 231,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 134,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 3,
+      "_beforeMs": 2,
+      "_id": 135,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 3,
+      "_beforeMs": 98,
+      "_id": 136,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 137,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 128,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 138,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 140,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 139,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 146,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 140,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 3,
+      "_beforeMs": 2,
+      "_id": 141,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 58,
+      "_assistLevel": 3,
+      "_beforeMs": 98,
+      "_id": 142,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 143,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 128,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 144,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 140,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 145,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 146,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 146,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 82,
+      "_assistLevel": 3,
+      "_beforeMs": 82,
+      "_id": 147,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 143,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 148,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 82,
+      "_assistLevel": 3,
+      "_beforeMs": 82,
+      "_id": 149,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 143,
+      "_assistLevel": 3,
+      "_beforeMs": 0,
+      "_id": 150,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 3,
+      "_beforeMs": 2,
+      "_id": 151,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 82,
+      "_assistLevel": 3,
+      "_beforeMs": 82,
+      "_id": 152,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 143,
+      "_assistLevel": 3,
+      "_beforeMs": 58,
+      "_id": 153,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 3,
+      "_beforeMs": 2,
+      "_id": 154,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 82,
+      "_assistLevel": 3,
+      "_beforeMs": 82,
+      "_id": 155,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 143,
+      "_assistLevel": 3,
+      "_beforeMs": 58,
+      "_id": 156,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 4,
+      "_beforeMs": 2,
+      "_id": 157,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 4,
+      "_beforeMs": 50,
+      "_id": 158,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 4,
+      "_beforeMs": 83,
+      "_id": 159,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 124,
+      "_assistLevel": 4,
+      "_beforeMs": 124,
+      "_id": 160,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 143,
+      "_assistLevel": 4,
+      "_beforeMs": 143,
+      "_id": 161,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 149,
+      "_assistLevel": 4,
+      "_beforeMs": 149,
+      "_id": 162,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 4,
+      "_beforeMs": 2,
+      "_id": 163,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 4,
+      "_beforeMs": 50,
+      "_id": 164,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 4,
+      "_beforeMs": 83,
+      "_id": 165,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 124,
+      "_assistLevel": 4,
+      "_beforeMs": 124,
+      "_id": 166,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 143,
+      "_assistLevel": 4,
+      "_beforeMs": 143,
+      "_id": 167,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 149,
+      "_assistLevel": 4,
+      "_beforeMs": 149,
+      "_id": 168,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 66,
+      "_assistLevel": 4,
+      "_beforeMs": 84,
+      "_id": 169,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 166,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 170,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 219,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 171,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 239,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 172,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 241,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 173,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 4,
+      "_beforeMs": 2,
+      "_id": 174,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 4,
+      "_beforeMs": 103,
+      "_id": 175,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 176,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 133,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 177,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 146,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 178,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 152,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 179,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 4,
+      "_beforeMs": 2,
+      "_id": 180,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 4,
+      "_beforeMs": 103,
+      "_id": 181,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 182,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 133,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 183,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 146,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 184,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 152,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 185,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 87,
+      "_assistLevel": 4,
+      "_beforeMs": 87,
+      "_id": 186,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 149,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 187,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 87,
+      "_assistLevel": 4,
+      "_beforeMs": 87,
+      "_id": 188,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 149,
+      "_assistLevel": 4,
+      "_beforeMs": 0,
+      "_id": 189,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 4,
+      "_beforeMs": 2,
+      "_id": 190,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 87,
+      "_assistLevel": 4,
+      "_beforeMs": 87,
+      "_id": 191,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 149,
+      "_assistLevel": 4,
+      "_beforeMs": 58,
+      "_id": 192,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 4,
+      "_beforeMs": 2,
+      "_id": 193,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 87,
+      "_assistLevel": 4,
+      "_beforeMs": 87,
+      "_id": 194,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 149,
+      "_assistLevel": 4,
+      "_beforeMs": 58,
+      "_id": 195,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 5,
+      "_beforeMs": 2,
+      "_id": 196,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 5,
+      "_beforeMs": 50,
+      "_id": 197,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 5,
+      "_beforeMs": 83,
+      "_id": 198,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 129,
+      "_assistLevel": 5,
+      "_beforeMs": 129,
+      "_id": 199,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 150,
+      "_assistLevel": 5,
+      "_beforeMs": 150,
+      "_id": 200,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 156,
+      "_assistLevel": 5,
+      "_beforeMs": 156,
+      "_id": 201,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 5,
+      "_beforeMs": 2,
+      "_id": 202,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 50,
+      "_assistLevel": 5,
+      "_beforeMs": 50,
+      "_id": 203,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 5,
+      "_beforeMs": 83,
+      "_id": 204,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 129,
+      "_assistLevel": 5,
+      "_beforeMs": 129,
+      "_id": 205,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 150,
+      "_assistLevel": 5,
+      "_beforeMs": 150,
+      "_id": 206,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 156,
+      "_assistLevel": 5,
+      "_beforeMs": 156,
+      "_id": 207,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 66,
+      "_assistLevel": 5,
+      "_beforeMs": 84,
+      "_id": 208,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 166,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 209,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 229,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 210,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 249,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 211,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 251,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 212,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 5,
+      "_beforeMs": 2,
+      "_id": 213,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 5,
+      "_beforeMs": 108,
+      "_id": 214,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 215,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 139,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 216,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 153,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 217,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 159,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 218,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 5,
+      "_beforeMs": 2,
+      "_id": 219,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 67,
+      "_assistLevel": 5,
+      "_beforeMs": 108,
+      "_id": 220,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 83,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 221,
+      "_judgementPriority": 3,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 4
+    },
+    {
+      "_afterMs": 139,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 222,
+      "_judgementPriority": 4,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 3
+    },
+    {
+      "_afterMs": 153,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 223,
+      "_judgementPriority": 5,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 2
+    },
+    {
+      "_afterMs": 159,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 224,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 92,
+      "_assistLevel": 5,
+      "_beforeMs": 92,
+      "_id": 225,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 156,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 226,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 21,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 92,
+      "_assistLevel": 5,
+      "_beforeMs": 92,
+      "_id": 227,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 156,
+      "_assistLevel": 5,
+      "_beforeMs": 0,
+      "_id": 228,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 22,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 5,
+      "_beforeMs": 2,
+      "_id": 229,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 92,
+      "_assistLevel": 5,
+      "_beforeMs": 92,
+      "_id": 230,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 156,
+      "_assistLevel": 5,
+      "_beforeMs": 58,
+      "_id": 231,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 2,
+      "_assistLevel": 5,
+      "_beforeMs": 2,
+      "_id": 232,
+      "_judgementPriority": 1,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 6
+    },
+    {
+      "_afterMs": 92,
+      "_assistLevel": 5,
+      "_beforeMs": 92,
+      "_id": 233,
+      "_judgementPriority": 2,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 5
+    },
+    {
+      "_afterMs": 156,
+      "_assistLevel": 5,
+      "_beforeMs": 58,
+      "_id": 234,
+      "_judgementPriority": 6,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 1
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 0,
+      "_beforeMs": 17,
+      "_id": 235,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 0,
+      "_beforeMs": 33,
+      "_id": 236,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 0,
+      "_beforeMs": 17,
+      "_id": 237,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 0,
+      "_beforeMs": 33,
+      "_id": 238,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 0,
+      "_beforeMs": 33,
+      "_id": 239,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 1,
+      "_beforeMs": 17,
+      "_id": 240,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 1,
+      "_beforeMs": 33,
+      "_id": 241,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 1,
+      "_beforeMs": 17,
+      "_id": 242,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 1,
+      "_beforeMs": 33,
+      "_id": 243,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 1,
+      "_beforeMs": 33,
+      "_id": 244,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 2,
+      "_beforeMs": 17,
+      "_id": 245,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 2,
+      "_beforeMs": 33,
+      "_id": 246,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 2,
+      "_beforeMs": 17,
+      "_id": 247,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 2,
+      "_beforeMs": 33,
+      "_id": 248,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 2,
+      "_beforeMs": 33,
+      "_id": 249,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 3,
+      "_beforeMs": 17,
+      "_id": 250,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 3,
+      "_beforeMs": 33,
+      "_id": 251,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 3,
+      "_beforeMs": 17,
+      "_id": 252,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 3,
+      "_beforeMs": 33,
+      "_id": 253,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 3,
+      "_beforeMs": 33,
+      "_id": 254,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 4,
+      "_beforeMs": 17,
+      "_id": 255,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 4,
+      "_beforeMs": 33,
+      "_id": 256,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 4,
+      "_beforeMs": 17,
+      "_id": 257,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 4,
+      "_beforeMs": 33,
+      "_id": 258,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 4,
+      "_beforeMs": 33,
+      "_id": 259,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 5,
+      "_beforeMs": 17,
+      "_id": 260,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 1,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 5,
+      "_beforeMs": 33,
+      "_id": 261,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 5,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 5,
+      "_beforeMs": 17,
+      "_id": 262,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 10,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 5,
+      "_beforeMs": 33,
+      "_id": 263,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 11,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 33,
+      "_assistLevel": 5,
+      "_beforeMs": 33,
+      "_id": 264,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 12,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 0,
+      "_beforeMs": 17,
+      "_id": 265,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 0,
+      "_beforeMs": 17,
+      "_id": 266,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 1,
+      "_beforeMs": 17,
+      "_id": 267,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 1,
+      "_beforeMs": 17,
+      "_id": 268,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 2,
+      "_beforeMs": 17,
+      "_id": 269,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 2,
+      "_beforeMs": 17,
+      "_id": 270,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 3,
+      "_beforeMs": 17,
+      "_id": 271,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 3,
+      "_beforeMs": 17,
+      "_id": 272,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 4,
+      "_beforeMs": 17,
+      "_id": 273,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 4,
+      "_beforeMs": 17,
+      "_id": 274,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 5,
+      "_beforeMs": 17,
+      "_id": 275,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 2,
+      "_noteSimulateJudgement": 8
+    },
+    {
+      "_afterMs": 17,
+      "_assistLevel": 5,
+      "_beforeMs": 17,
+      "_id": 276,
+      "_judgementPriority": 0,
+      "_noteJudgementType": 15,
+      "_noteSimulateJudgement": 8
+    }
+  ]
+}

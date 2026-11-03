@@ -1,0 +1,224 @@
+{
+  "_allData": [
+    {
+      "_displayName": "MemberCardDetailList",
+      "_endAt": "",
+      "_helpCategoryId": 50,
+      "_id": 1,
+      "_pageCount": 4,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_1"
+    },
+    {
+      "_displayName": "SupportCardDetailList",
+      "_endAt": "",
+      "_helpCategoryId": 60,
+      "_id": 2,
+      "_pageCount": 4,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_2"
+    },
+    {
+      "_displayName": "FormationEdit",
+      "_endAt": "",
+      "_helpCategoryId": 70,
+      "_id": 3,
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_3"
+    },
+    {
+      "_displayName": "BandTop",
+      "_endAt": "",
+      "_helpCategoryId": 80,
+      "_id": 4,
+      "_pageCount": 2,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_4"
+    },
+    {
+      "_displayName": "RoomTop",
+      "_endAt": "",
+      "_helpCategoryId": 40,
+      "_id": 5,
+      "_pageCount": 4,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_5"
+    },
+    {
+      "_displayName": "StoryBandChapterSelect",
+      "_endAt": "",
+      "_helpCategoryId": 150,
+      "_id": 6,
+      "_pageCount": 2,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_6"
+    },
+    {
+      "_displayName": "LiveTutorialNotes",
+      "_endAt": "",
+      "_helpCategoryId": 90,
+      "_id": 7,
+      "_pageCount": 4,
+      "_shouldShowOnFirstVisit": false,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_7"
+    },
+    {
+      "_displayName": "LiveTutorialGekisou",
+      "_endAt": "",
+      "_helpCategoryId": 110,
+      "_id": 8,
+      "_pageCount": 7,
+      "_shouldShowOnFirstVisit": false,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_8"
+    },
+    {
+      "_displayName": "LivePrepare",
+      "_endAt": "",
+      "_helpCategoryId": 90,
+      "_id": 9,
+      "_pageCount": 1,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_9"
+    },
+    {
+      "_displayName": "EventTop",
+      "_endAt": "",
+      "_helpCategoryId": 140,
+      "_id": 10,
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_10"
+    },
+    {
+      "_displayName": "OfflineBonusTop",
+      "_endAt": "",
+      "_helpCategoryId": 160,
+      "_id": 11,
+      "_pageCount": 3,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_11"
+    },
+    {
+      "_displayName": "FriendInvitation",
+      "_endAt": "",
+      "_helpCategoryId": 200,
+      "_id": 12,
+      "_pageCount": 3,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_12"
+    },
+    {
+      "_displayName": "VipTopDialog",
+      "_endAt": "",
+      "_helpCategoryId": 180,
+      "_id": 13,
+      "_pageCount": 3,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_13"
+    },
+    {
+      "_displayName": "StorageBoxDialog",
+      "_endAt": "",
+      "_helpCategoryId": 170,
+      "_id": 14,
+      "_pageCount": 3,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_14"
+    },
+    {
+      "_displayName": "ExchangeItemList",
+      "_endAt": "",
+      "_helpCategoryId": 170,
+      "_id": 15,
+      "_pageCount": 3,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "12",
+      "_titleTextId": "Help_Carousel_Title_15"
+    },
+    {
+      "_displayName": "SeasonPassTop",
+      "_endAt": "",
+      "_helpCategoryId": 190,
+      "_id": 16,
+      "_pageCount": 2,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_16"
+    },
+    {
+      "_displayName": "ArenaTop",
+      "_endAt": "",
+      "_helpCategoryId": 130,
+      "_id": 17,
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": false,
+      "_startAt": "2026/10/28 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_17"
+    },
+    {
+      "_displayName": "CostumeChange",
+      "_endAt": "",
+      "_helpCategoryId": 220,
+      "_id": 20,
+      "_pageCount": 2,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_suffix": "",
+      "_titleTextId": "Help_Carousel_Title_20"
+    },
+    {
+      "_displayName": "EventTop",
+      "_endAt": "",
+      "_helpCategoryId": 140,
+      "_id": 21,
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/10/18 15:00:00",
+      "_suffix": "_00003",
+      "_titleTextId": "Help_Carousel_Title_21"
+    },
+    {
+      "_displayName": "EventTop",
+      "_endAt": "",
+      "_helpCategoryId": 140,
+      "_id": 22,
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/10/28 12:00:00",
+      "_suffix": "_00004",
+      "_titleTextId": "Help_Carousel_Title_22"
+    }
+  ]
+}

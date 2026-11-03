@@ -1,0 +1,53 @@
+{
+  "_allData": [
+    {
+      "_descriptionTextId": "Item_Source_Name_1",
+      "_iconAsset": "",
+      "_id": 1,
+      "_targetDisplay": 6,
+      "_targetDisplayId": 0
+    },
+    {
+      "_descriptionTextId": "Item_Source_Name_2",
+      "_iconAsset": "IconLive",
+      "_id": 2,
+      "_targetDisplay": 3,
+      "_targetDisplayId": 0
+    },
+    {
+      "_descriptionTextId": "Item_Source_Name_3",
+      "_iconAsset": "IconStorage",
+      "_id": 3,
+      "_targetDisplay": 22,
+      "_targetDisplayId": 0
+    },
+    {
+      "_descriptionTextId": "Item_Source_Name_4",
+      "_iconAsset": "IconPractice",
+      "_id": 4,
+      "_targetDisplay": 21,
+      "_targetDisplayId": 0
+    },
+    {
+      "_descriptionTextId": "Item_Source_Name_5",
+      "_iconAsset": "IconExchange",
+      "_id": 5,
+      "_targetDisplay": 11,
+      "_targetDisplayId": 12
+    },
+    {
+      "_descriptionTextId": "Item_Source_Name_6",
+      "_iconAsset": "IconStory",
+      "_id": 6,
+      "_targetDisplay": 14,
+      "_targetDisplayId": 12
+    },
+    {
+      "_descriptionTextId": "Item_Source_Name_7",
+      "_iconAsset": "IconPass",
+      "_id": 7,
+      "_targetDisplay": 4,
+      "_targetDisplayId": 17
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "_allData": [
+    {
+      "_campaignType": 12,
+      "_descriptionTextId": "Campaign_Description_LiveRewardDrop01Nonenull",
+      "_endAt": "2026/10/06 23:59:59",
+      "_iconImageAsset": "birthday_pick_miku",
+      "_id": 1,
+      "_liveType": 0,
+      "_nameTextId": "Campaign_Name_LiveRewardDrop",
+      "_parameter": 1,
+      "_startAt": "2026/10/04 0:00:00",
+      "_targetUserRank": 0,
+      "_value": 0
+    },
+    {
+      "_campaignType": 12,
+      "_descriptionTextId": "Campaign_Description_LiveRewardDrop01Nonenull",
+      "_endAt": "2026/10/26 23:59:59",
+      "_iconImageAsset": "birthday_pick_houka",
+      "_id": 2,
+      "_liveType": 0,
+      "_nameTextId": "Campaign_Name_LiveRewardDrop",
+      "_parameter": 2,
+      "_startAt": "2026/10/24 0:00:00",
+      "_targetUserRank": 0,
+      "_value": 0
+    },
+    {
+      "_campaignType": 12,
+      "_descriptionTextId": "Campaign_Description_LiveRewardDrop01Nonenull",
+      "_endAt": "2026/11/06 23:59:59",
+      "_iconImageAsset": "birthday_pick_yuno",
+      "_id": 3,
+      "_liveType": 0,
+      "_nameTextId": "Campaign_Name_LiveRewardDrop",
+      "_parameter": 3,
+      "_startAt": "2026/11/04 0:00:00",
+      "_targetUserRank": 0,
+      "_value": 0
+    }
+  ]
+}
