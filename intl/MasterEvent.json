@@ -103,6 +103,32 @@
       "_nameTextId": "Event_Name_0004",
       "_startAt": "2026/10/28 12:00:00",
       "_storyChapterId": 0
+    },
+    {
+      "_backgroundAsset": "05/Top/event_top_01_0005",
+      "_backgroundVideoAsset": "",
+      "_bannerAsset": "05/Banner/event_banner_00005",
+      "_carouselHelpId": 140005,
+      "_challengeLiveEventPointGroup": 2,
+      "_challengeLiveEventRewardGroup": 5,
+      "_displayEndAt": "2026/11/21 14:59:59",
+      "_endAt": "2026/11/17 14:59:59",
+      "_eventItemId": 46,
+      "_eventType": 1,
+      "_gekisouLiveRankingEventPointGroup": 0,
+      "_gekisouLiveRankingEventRewardGroup": 0,
+      "_id": 5,
+      "_imageAsset": "",
+      "_isMusicRankingDisabled": false,
+      "_isRankingDisabled": true,
+      "_isTotalMusicRankingDisabled": false,
+      "_liveEventPointGroup": 1,
+      "_liveEventRewardGroup": 5,
+      "_logoAsset": "05/Logo/event_logo_01_0005",
+      "_musicId": 100116,
+      "_nameTextId": "Event_Name_0005",
+      "_startAt": "2026/11/08 15:00:00",
+      "_storyChapterId": 9
     }
   ]
 }

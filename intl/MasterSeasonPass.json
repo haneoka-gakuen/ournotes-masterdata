@@ -117,6 +117,20 @@
         220
       ],
       "_startAt": "2026/10/28 12:00:00"
+    },
+    {
+      "_bannerAsset": "banner_seasonpass_00009",
+      "_descriptionTextId": "Season_Pass_Description_Season_Pass_Name_9",
+      "_endAt": "2026/11/17 14:59:59",
+      "_id": 9,
+      "_levelGroup": 2,
+      "_nameTextId": "Season_Pass_Name_9",
+      "_priority": 9,
+      "_recommendationLevelRewardIds": [
+        230,
+        243
+      ],
+      "_startAt": "2026/11/08 15:00:00"
     }
   ]
 }

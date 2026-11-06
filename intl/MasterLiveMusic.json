@@ -5789,6 +5789,67 @@
     },
     {
       "_anotherVocalIDs": [],
+      "_arrangerTextID": "Arranger_Name_100116",
+      "_backgroundCameraType": 0,
+      "_bandIDs": [
+        2
+      ],
+      "_bandNameTextID": "",
+      "_bestMusicTagIDs": [
+        2
+      ],
+      "_comboEasyLiveMusicRewardID": 6,
+      "_comboExpertLiveMusicRewardID": 9,
+      "_comboHardLiveMusicRewardID": 8,
+      "_comboNormalLiveMusicRewardID": 7,
+      "_comboRewardGroup": 1,
+      "_composerTextID": "Composer_Name_100116",
+      "_defaultUnlock": true,
+      "_easyID": 10011600,
+      "_expertID": 10011603,
+      "_gekisouCallSe": 1,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_hardID": 10011602,
+      "_id": 100116,
+      "_jacketAssetName": "jkt_002_100116",
+      "_jingleSoundID": 1400000000116,
+      "_lazerLightMotionChorus": 3,
+      "_lazerLightMotionNormal": 3,
+      "_liveMusicPenLightColorID": 201,
+      "_liveScoreRankGroup": 1100116,
+      "_lyricistTextID": "Lyricist_Name_100116",
+      "_musicCategories": [
+        1
+      ],
+      "_musicLightColorIDChorus": 1,
+      "_musicLightColorIDNormal": 1,
+      "_musicSoundID": 1300000000116,
+      "_musicType": 5,
+      "_musicVideoIDs": [],
+      "_normalID": 10011601,
+      "_phoneticTextID": "Music_Phonetic_Tilte_100116",
+      "_rubyTitleTextID": "Music_Ruby_Tilte_100116",
+      "_scoreALiveMusicRewardID": 3,
+      "_scoreBLiveMusicRewardID": 2,
+      "_scoreCLiveMusicRewardID": 1,
+      "_scoreRankRewardGroup": 1,
+      "_scoreSLiveMusicRewardID": 4,
+      "_scoreSSLiveMusicRewardID": 5,
+      "_sortOrder": 10210116,
+      "_stageLightMotionChorus": 3,
+      "_stageLightMotionNormal": 3,
+      "_startAt": "2026/11/17 15:00:00",
+      "_titleTextID": "Music_Tilte_100116",
+      "_unlockConditionID": 0,
+      "_vjVideoPattern": 1,
+      "_vocalCharacterIDs": [
+        6
+      ]
+    },
+    {
+      "_anotherVocalIDs": [],
       "_arrangerTextID": "Arranger_Name_100118",
       "_backgroundCameraType": 1,
       "_bandIDs": [

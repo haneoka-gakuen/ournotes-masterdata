@@ -137,7 +137,7 @@
     },
     {
       "_contentId": 10,
-      "_displayOrder": 9,
+      "_displayOrder": 19,
       "_displayType": 11,
       "_endAt": "2026-11-30 23:59:59",
       "_id": 18,
@@ -164,7 +164,7 @@
     },
     {
       "_contentId": 16,
-      "_displayOrder": 2,
+      "_displayOrder": 12,
       "_displayType": 2,
       "_endAt": "2026-11-08 14:59:59",
       "_id": 22,
@@ -173,7 +173,7 @@
     },
     {
       "_contentId": 4,
-      "_displayOrder": 3,
+      "_displayOrder": 13,
       "_displayType": 1,
       "_endAt": "2026-11-07 14:59:59",
       "_id": 23,
@@ -182,7 +182,7 @@
     },
     {
       "_contentId": 10,
-      "_displayOrder": 7,
+      "_displayOrder": 17,
       "_displayType": 16,
       "_endAt": "2026-11-28 14:59:59",
       "_id": 24,
@@ -191,7 +191,7 @@
     },
     {
       "_contentId": 1000000136,
-      "_displayOrder": 4,
+      "_displayOrder": 14,
       "_displayType": 4,
       "_endAt": "2026-11-08 14:59:59",
       "_id": 25,
@@ -200,7 +200,7 @@
     },
     {
       "_contentId": 7,
-      "_displayOrder": 8,
+      "_displayOrder": 18,
       "_displayType": 25,
       "_endAt": "2026-11-28 14:59:59",
       "_id": 26,
@@ -209,7 +209,7 @@
     },
     {
       "_contentId": 22,
-      "_displayOrder": 1,
+      "_displayOrder": 11,
       "_displayType": 2,
       "_endAt": "2026-11-06 23:59:59",
       "_id": 27,
@@ -218,7 +218,7 @@
     },
     {
       "_contentId": 32,
-      "_displayOrder": 10,
+      "_displayOrder": 20,
       "_displayType": 11,
       "_endAt": "2026-11-09 23:59:59",
       "_id": 28,
@@ -233,6 +233,24 @@
       "_id": 29,
       "_imageAsset": "SeasonPass/Banner/banner_seasonpass_00006",
       "_startAt": "2026-10-25 21:00:00"
+    },
+    {
+      "_contentId": 23,
+      "_displayOrder": 1,
+      "_displayType": 2,
+      "_endAt": "2026-11-18 14:59:59",
+      "_id": 30,
+      "_imageAsset": "Gacha/Banner/gacha_banner_00023",
+      "_startAt": "2026-11-08 15:00:00"
+    },
+    {
+      "_contentId": 5,
+      "_displayOrder": 2,
+      "_displayType": 1,
+      "_endAt": "2026-11-17 14:59:59",
+      "_id": 31,
+      "_imageAsset": "Story/Banner/Chapter/ui_banner_chapter_9",
+      "_startAt": "2026-11-08 15:00:00"
     },
     {
       "_contentId": 0,
@@ -308,7 +326,7 @@
     },
     {
       "_contentId": 1000000132,
-      "_displayOrder": 5,
+      "_displayOrder": 15,
       "_displayType": 4,
       "_endAt": "2026-11-08 11:59:59",
       "_id": 1000000007,
@@ -317,12 +335,21 @@
     },
     {
       "_contentId": 1000000133,
-      "_displayOrder": 6,
+      "_displayOrder": 16,
       "_displayType": 4,
       "_endAt": "2026-11-08 11:59:59",
       "_id": 1000000008,
       "_imageAsset": "Image/Banner/home_banner_1100000008",
       "_startAt": "2026-10-28 00:00:00"
+    },
+    {
+      "_contentId": 1000000146,
+      "_displayOrder": 3,
+      "_displayType": 4,
+      "_endAt": "2026-11-18 14:59:59",
+      "_id": 1000000009,
+      "_imageAsset": "Image/Banner/home_banner_1100000009",
+      "_startAt": "2026-11-08 15:00:00"
     }
   ]
 }

@@ -1047,6 +1047,20 @@
       "_voiceAsset": ""
     },
     {
+      "_characterIds": [
+        7
+      ],
+      "_endAt": "",
+      "_id": 79,
+      "_isInitialOwnership": false,
+      "_nameTextId": "Stamp_Name_79",
+      "_priority": 79,
+      "_stampAsset": "Stamp/illust/stamp_illust_mutsumi_003",
+      "_stampCategory": 3,
+      "_startAt": "2026/11/08 15:00:00",
+      "_voiceAsset": ""
+    },
+    {
       "_characterIds": [],
       "_endAt": "2027/09/23 0:00:00",
       "_id": 1000000001,

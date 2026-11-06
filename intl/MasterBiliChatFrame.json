@@ -78,6 +78,17 @@
       "_startAt": "2026/10/28 00:00:00"
     },
     {
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_7",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_id": 8,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatFrameDesc_8",
+      "_skinNameTextId": "ChatFrameName_8",
+      "_startAt": "2026/11/08 15:00:00"
+    },
+    {
       "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_1001",
       "_endAt": "2046/07/01 00:00:04",
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",

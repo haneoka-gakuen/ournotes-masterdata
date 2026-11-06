@@ -90,6 +90,19 @@
       "_skinNameTextId": "ChatThemeName_7",
       "_startAt": "2026/10/28 00:00:00",
       "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_MyGo"
+    },
+    {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_Mujica",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_id": 8,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/Mujica",
+      "_skinDescTextId": "ChatThemeDesc_8",
+      "_skinNameTextId": "ChatThemeName_8",
+      "_startAt": "2026/11/08 15:00:00",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_Mujica"
     }
   ]
 }

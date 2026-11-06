@@ -85,6 +85,18 @@
       "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_MyGo"
     },
     {
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Mujica",
+      "_endAt": "2046/07/01 00:00:00",
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_id": 8,
+      "_isInitialOwnership": false,
+      "_isShowWhenLocked": true,
+      "_skinDescTextId": "ChatBubbleDesc_8",
+      "_skinNameTextId": "ChatBubbleName_8",
+      "_startAt": "2026/11/08 15:00:00",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Mujica"
+    },
+    {
       "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Wol",
       "_endAt": "2046/07/01 00:00:00",
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",

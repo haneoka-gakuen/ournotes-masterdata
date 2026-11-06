@@ -219,6 +219,17 @@
       "_startAt": "2026/10/28 12:00:00",
       "_suffix": "_00004",
       "_titleTextId": "Help_Carousel_Title_22"
+    },
+    {
+      "_displayName": "EventTop",
+      "_endAt": "",
+      "_helpCategoryId": 140,
+      "_id": 140005,
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/11/08 15:00:00",
+      "_suffix": "_00005",
+      "_titleTextId": "Help_Carousel_Title_22"
     }
   ]
 }
